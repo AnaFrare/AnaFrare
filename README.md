@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnaFrare.
-- 🌱 I’m currently learning HTML,CSS and JavaScript
+- 👋 Hi, I’m AnaFrare.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 
 <!---
 AnaFrare/AnaFrare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
